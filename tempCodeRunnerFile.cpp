@@ -1,2 +1,1 @@
-
-                    hs[j] = 0;
+        cout << newBottles << " " << usable << endl;
